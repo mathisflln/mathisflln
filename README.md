@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a passionate **computer science enthusiast** 💻, always eager to learn and experiment with new technologies. I’m currently exploring software development with a focus currently on **iOS mobile applications**.
+I'm a passionate **computer science enthusiast** 💻, always eager to learn and experiment with new technologies.
 
 - 🌱 Currently learning **Python** and improving my coding skills.
 - 💡 Have foundational knowledge in **HTML, CSS, and JavaScript**.
@@ -28,15 +28,6 @@ I'm a passionate **computer science enthusiast** 💻, always eager to learn and
 - Exploring **mobile app development** and **UI/UX design** 🎨  
 - Learning **algorithms, data structures, and computer science concepts** 📚  
 - Experimenting with **automation scripts and small projects** 🤖  
-
----
-
-## Current Projects
-
-- **iOS App Project (Swift & SwiftUI)**  
-  Working on a personal expense tracker called **Spendly** 💰, which helps me learn Swift and build a full-featured iOS application.  
-
-- Personal learning projects in Python, web development, and small automation tools.
 
 ---
 
