@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mathis!
 
-🇫🇷 Currently in France | 🧪 PTSI (Preparatory Class for Engineering Studies, Scientific Track)
+🇫🇷 Currently in France | 🧪 PTSI/PT (Preparatory Class for Engineering Studies, Scientific Track)
 
 ---
 
