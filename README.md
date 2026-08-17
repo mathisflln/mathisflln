@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mathis!
 
-🇫🇷 Currently in France | Engineering Student in Computer Science at IMT Nord Europe
+🇫🇷 Currently in France | Engineering Student in Computer Science at IMT Nord Europe.
 
 ---
 
